@@ -37,6 +37,8 @@
 export { Potagotchi } from './Potagotchi';
 export { PotagotchiActions } from './PotagotchiActions';
 export { PotagotchiOnboarding } from './PotagotchiOnboarding';
+export { PotagotchiIntro } from './PotagotchiIntro';
+export { PotagotchiAppWrapper } from './PotagotchiAppWrapper';
 
 // Hook
 export { usePotagotchi } from './usePotagotchi';
