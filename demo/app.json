@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Potagotchi Demo",
+    "slug": "potagotchi-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF9F0"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF9F0"
+      }
+    }
+  }
+}
